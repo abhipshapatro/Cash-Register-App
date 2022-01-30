@@ -41,6 +41,7 @@ function hideMessage(){
     message.style.display = "none";
 }
 
+//showing the hidden div after clicking "next" btn
 function showSection(){
     document.getElementById("next-container").style.display = "" ;
 }
